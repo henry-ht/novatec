@@ -8,4 +8,6 @@
 
 8 php artisan passport:install
 
-9 php artisan optimize
+9 php artisan serve
+
+10 php artisan optimize
